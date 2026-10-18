@@ -30,3 +30,6 @@ The notebook performs the following steps:
 - matplotlib
 - seaborn
 
+## Author
+
+Created as a data analytics portfolio project by [MaciejK-ops](https://github.com/MaciejK-ops).
